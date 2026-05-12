@@ -8,7 +8,7 @@ metadata:
   annotations:
     github.com/project-slug: BackstageSSPPoC/ JSP-Testing-2
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: Backstage_SSP_PoC/ JSP-Testing-2/main
+    jenkins.io/job-full-name: Backstage_SSP_PoC/JSP-Testing-2/main
     argocd/app-name:  jsp-testing-2
     backstage.io/kubernetes-id:  JSP-Testing-2
     backstage.io/kubernetes-namespace: default
